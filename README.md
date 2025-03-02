@@ -16,3 +16,14 @@ SPLITTED THE PITCHES IN EACH FILE:
 
 i downloaded the individual files:
 [https://github.com/adhilbinmujeeb/Business-Model-Evaluation-letsgetmoving/blob/main/individual_pitch_output.ipynb](url)
+
+converted the individual text files to json:
+https://github.com/adhilbinmujeeb/Business-Model-Evaluation-letsgetmoving/blob/main/text_to_json_gemini_2_flash.ipynb
+
+extracted business_attributes from the json files:
+https://github.com/adhilbinmujeeb/Business-Model-Evaluation-letsgetmoving/blob/main/Business%20attribute%20extraction%20gemini%202.0%20flash.ipynb
+
+extracted questions from the json files:
+https://github.com/adhilbinmujeeb/Business-Model-Evaluation-letsgetmoving/blob/main/Question_extraction.ipynb
+
+
