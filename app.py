@@ -1,5 +1,5 @@
 import streamlit as st
-pip install pymongo
+!pip install pymongo
 
 import requests
 import numpy as np
