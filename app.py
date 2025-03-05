@@ -1,4 +1,6 @@
 import streamlit as st
+pip install pymongo
+
 import requests
 import numpy as np
 from pymongo import MongoClient
