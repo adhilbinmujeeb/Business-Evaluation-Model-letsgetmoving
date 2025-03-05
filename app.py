@@ -14,7 +14,7 @@ collection = db["questions"]
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Groq API Key (Replace with your actual key)
-GROQ_API_KEY = "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
+GROQ_API_KEY = "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"
 "
 GROQ_API_URL = "https://api.groq.com/v1/chat/completions"
 
